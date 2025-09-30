@@ -1,6 +1,7 @@
 # 📂 NLP Assignments Repository
 
 **Instructor:** Sahil Singh
+
 **Course Module:** Natural Language Processing (NLP)
 
 This repository contains two NLP-focused assignments:
@@ -59,8 +60,6 @@ Dependencies include:
 * Visualizes document relationships via a **heatmap**.
 * Outputs top most similar pairs.
 
-📄 [Read More](Document-Similarity-Checker/README.md)
-
 ---
 
 ### 2️⃣ Twitter Sentiment Analysis
@@ -70,7 +69,6 @@ Dependencies include:
 * Evaluates with **accuracy, confusion matrix, and classification report**.
 * Provides Jupyter notebook for training & testing.
 
-📄 [Read More](Twitter-Sentiment-Analysis/README.md)
 
 ---
 
