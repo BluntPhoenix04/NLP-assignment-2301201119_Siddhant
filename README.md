@@ -59,7 +59,7 @@ Dependencies include:
 * Visualizes document relationships via a **heatmap**.
 * Outputs top most similar pairs.
 
-📄 [Read More](document_similarity/README.md)
+📄 [Read More](Document-Similarity-Checker/README.md)
 
 ---
 
@@ -70,7 +70,7 @@ Dependencies include:
 * Evaluates with **accuracy, confusion matrix, and classification report**.
 * Provides Jupyter notebook for training & testing.
 
-📄 [Read More](twitter_sentiment/README.md)
+📄 [Read More](Twitter-Sentiment-Analysis/README.md)
 
 ---
 
